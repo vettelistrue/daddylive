@@ -10,6 +10,6 @@
    Events playlist is accessible via: **https://username-dproxy.hf.space/playlist/events**. (Refresh playlist to update)
 10. Enjoy!
 
-Note: To update the proxy for new changes, click on **Settings** and click on **Factory rebuild**.
+Note: To update the proxy for new changes, click on **Settings** then click on **Factory rebuild**.
 
 
