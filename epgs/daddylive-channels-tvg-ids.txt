@@ -582,3 +582,4 @@ Sky.Thriller.HD.uk
 SkySportsPremierLeague.uk
 Nova.Sport.bg
 Sporting.TV.HD.pt
+CBC.(CBLT).Toronto,.ON.ca
