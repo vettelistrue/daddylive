@@ -1110,6 +1110,17 @@
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
         ]
     },
+    "CBC Canada": {
+        "group_title": "CANADA",
+        "tvg_id": "CBC.(CBLT).Toronto,.ON.ca",
+        "tvg_logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbc.png",
+        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8",
+        "options": [
+            "#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/",
+            "#EXTVLCOPT:http-origin=https://pkpakiplay.xyz",
+            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        ]
+    },
     "Channel 11 Israel": {
         "group_title": "ISRAEL",
         "tvg_id": "test",
