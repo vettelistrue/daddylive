@@ -1,4 +1,4 @@
-name: daddylive-events-epg-grabber
+name: events-epg-grabber
 on:
   schedule:
     - cron: "0 */8 * * *"
