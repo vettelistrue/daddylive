@@ -38,3 +38,4 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
     <img src="https://cdn.ko-fi.com/cdn/kofi5.png" alt="Buy Me a Coffee" style="height:50px;" />
   </a>
 </p>
+Join our discord: https://discord.gg/aVuhm62hFU (#iptv)
